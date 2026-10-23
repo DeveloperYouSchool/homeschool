@@ -187,7 +187,7 @@ Our longer-term vision includes additional support for parents, opportunities to
 
 DeveloperYou grew from years of experience in technical instruction, software development, database engineering, and helping people understand complicated systems.
 
-Its founder, Robert Bills, is a U.S. Air Force veteran, former technical instructor, and software and developer education professional.
+Its founder is a U.S. Air Force veteran, former technical instructor, and software and developer education professional.
 
 Across military, government, and commercial environments, one lesson has remained consistent:
 
