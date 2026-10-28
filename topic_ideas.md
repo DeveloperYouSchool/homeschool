@@ -1,5 +1,17 @@
 # Topics in planning  
 
+## Problem solving  
+Use spreadsheet data to make decisions  
+Fill missing data in a spreadsheet  
+Migrate many spreadsheets into a single file  
+Talking to another program  
+Don't transcribe data if you can transfer it  
+Can I collect data automatically so I don't have to look it up?  
+
+## Defining the problem (before the code)  
+Determine repetitive or time consuming tasks  
+Can I get the computer to help me?  
+
 ## Getting information  
 Reading files  
 Accepting information  
@@ -18,9 +30,3 @@ Databases
 ## Uncategorized  
 Application Programming Interfaces  
 Javascript Object Notation (JSON)  
-
-## Problem solving  
-Use spreadsheet data to make decisions  
-Fill missing data in a spreadsheet  
-Migrate many spreadsheets into a single file  
-Talking to another program  
