@@ -25,6 +25,8 @@ What is version control and why should I care?
 Creating new features while keeping things working  
 
 ## Storage  
+Text files  
+Spreadsheets  
 Databases  
 
 ## Uncategorized  
